@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Joseph Guduri
 
-<!--
-**joseph-guduri/joseph-guduri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Engineering Student | IT & Cybersecurity Aspirant  
+🔐 Interested in Cybersecurity Operations, Vulnerability Analysis & Python Automation  
+📍 Karnataka, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I am a final-year engineering student transitioning into IT and Cybersecurity.  
+I have hands-on exposure to ethical hacking fundamentals, vulnerability management, OSINT, Python programming, and data analysis.
+
+I enjoy breaking down complex systems, identifying weaknesses, and building small tools to understand how things work under the hood.
+
+---
+
+## 🛠️ Skills & Tools
+**Cybersecurity**
+- Ethical Hacking Fundamentals
+- Vulnerability Management
+- OSINT
+- System & Application Auditing (Basics)
+
+**Programming**
+- Python
+- C
+- HTML, CSS, JavaScript
+
+**Data & AI**
+- Data Cleaning & EDA (Python)
+- Generative AI Basics
+- Prompt Engineering
+
+---
+
+## 📂 Projects
+🔹 *Projects will be added progressively with proper documentation and use-cases.*
+
+---
+
+## 🏆 Highlights
+- 🥈 2nd Place – Coding Hackathon (JCER)
+- 👨‍🏫 Programming Tutor (C, Python, Web Basics)
+- 🧠 Data Science Internship (Python, EDA)
+- 🏸 Badminton Coach (Leadership & mentoring)
+
+---
+
+## 📫 Connect
+- 📧 Email: josephgwork06@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/josephguduri
+
